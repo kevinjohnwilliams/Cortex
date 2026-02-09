@@ -67,5 +67,5 @@ This repository serves as a portfolio reference for the Cortex platform. The sou
 
 **Kevin Williams**  
 Software Engineer — Barrios Technology  
-M.S. Artificial Intelligence (Expected 2026) — University of Michigan-Dearborn  
-[GitHub](https://github.com/kevinjohnwilliams) · [LinkedIn](https://linkedin.com/in/kevinjohnwilliams)
+M.S. Artificial Intelligence — University of Michigan
+[GitHub](https://github.com/kevinjohnwilliams) · [Website](https://kevinjohnwilliams.github.io/)
